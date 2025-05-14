@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "863614776368",
+    "project_id": "bgt-gorevler",
+    "storage_bucket": "bgt-gorevler.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:863614776368:android:c1c3f45ba35ffdc9a2a9f5",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCgZ8oUChevDvP6KbpjkpmI4qp7SY5Gw0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
